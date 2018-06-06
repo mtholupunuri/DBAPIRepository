@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3058" started-at="2018-06-04T09:27:08Z" finished-at="2018-06-04T09:27:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3058" started-at="2018-06-04T09:27:08Z" finished-at="2018-06-04T09:27:11Z">
+      <class name="com.DBAPITesting.Testcases.ComparePollDetailsRelCodes">
+        <test-method status="PASS" signature="comparePollDetails1()[pri:0, instance:com.DBAPITesting.Testcases.ComparePollDetailsRelCodes@5419f379]" name="comparePollDetails1" duration-ms="1540" started-at="2018-06-04T14:57:09Z" finished-at="2018-06-04T14:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comparePollDetails1 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.DBAPITesting.Testcases.ComparePollDetailsRelCodes@5419f379]" name="getResult" is-config="true" duration-ms="1" started-at="2018-06-04T14:57:11Z" finished-at="2018-06-04T14:57:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=comparePollDetails1 status=SUCCESS method=ComparePollDetailsRelCodes.comparePollDetails1()[pri:0, instance:com.DBAPITesting.Testcases.ComparePollDetailsRelCodes@5419f379] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- com.DBAPITesting.Testcases.ComparePollDetailsRelCodes -->
+      <class name="com.DBAPITesting.Testcases.CompareEmpDetailsRelCodes">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.DBAPITesting.Testcases.CompareEmpDetailsRelCodes@4520ebad]" name="startTest" is-config="true" duration-ms="171" started-at="2018-06-04T14:57:08Z" finished-at="2018-06-04T14:57:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="compareEmpPoints()[pri:0, instance:com.DBAPITesting.Testcases.CompareEmpDetailsRelCodes@4520ebad]" name="compareEmpPoints" duration-ms="935" started-at="2018-06-04T14:57:08Z" finished-at="2018-06-04T14:57:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareEmpPoints -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.DBAPITesting.Testcases.CompareEmpDetailsRelCodes@4520ebad]" name="getResult" is-config="true" duration-ms="3" started-at="2018-06-04T14:57:09Z" finished-at="2018-06-04T14:57:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=compareEmpPoints status=SUCCESS method=CompareEmpDetailsRelCodes.compareEmpPoints()[pri:0, instance:com.DBAPITesting.Testcases.CompareEmpDetailsRelCodes@4520ebad] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.DBAPITesting.Testcases.CompareEmpDetailsRelCodes@4520ebad]" name="endReport" is-config="true" duration-ms="386" started-at="2018-06-04T14:57:11Z" finished-at="2018-06-04T14:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.DBAPITesting.Testcases.CompareEmpDetailsRelCodes -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
